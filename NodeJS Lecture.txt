@@ -1,0 +1,16 @@
+Javascripts 는 브라우저에 내장되어 있음
+브라우저 콘솔창에서 코딩이 가능한 것도 JS 가 브라우저에 내장되어 있기 때문임.
+
+Node.JS 는 뭔가하면 JS 를 브라우저 밖으로 가지고 나와서 유저의 컴퓨터에서 돌아갈 수 있게 만든것 
+' 브라우저 밖의 자바스크립트 (Javascripts outside the browser) ' 
+
+Node.JS 는 그런것이다.
+그래서 Javascripts 를 이용해 filesystem 을 다룰 수 있고, server 도 만들 수 있다.
+web scrapper 를 만들어 정보들도 수집할 수 있다. 
+
+결론적으로 Browser 가 필요없게 되다보니까 nodeJS가 있으면 
+Javascript를 써서 모바일 앱을 만들 수도 있고, 게임도 만들 수 있다.
+
+그동안 Javascript는 브라우저에 국한되어 있어서 다양한 목적을 위한 언어는 아니였다. 
+브라우저를 위해 설계된 언어였지
+하지만 Node.JS 를 통해 다양하게 활용이 가능해진것이다!
